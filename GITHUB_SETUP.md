@@ -18,7 +18,7 @@ Click "Create repository"
 
 ```bash
 # Add GitHub remote (replace with your actual repo URL if different)
-git remote add origin https://github.com/jonasneves/durham-transport-safety-audit.git
+git remote add origin https://github.com/civic-ai-audits/durham-transport.git
 
 # Push to GitHub
 git push -u origin main
@@ -27,7 +27,7 @@ git push -u origin main
 ### Step 3: Enable GitHub Pages
 
 1. Go to repository settings:
-   https://github.com/jonasneves/durham-transport-safety-audit/settings/pages
+   https://github.com/civic-ai-audits/durham-transport/settings/pages
 
 2. Under "Build and deployment":
    - **Source:** Select "GitHub Actions"
@@ -37,7 +37,7 @@ git push -u origin main
 ### Step 4: Wait for Deployment
 
 1. Go to Actions tab:
-   https://github.com/jonasneves/durham-transport-safety-audit/actions
+   https://github.com/civic-ai-audits/durham-transport/actions
 
 2. Watch the "Deploy to GitHub Pages" workflow run (~2-3 minutes)
 
@@ -47,7 +47,7 @@ git push -u origin main
 
 **Your URL:**
 ```
-https://jonasneves.github.io/durham-transport-safety-audit/
+https://civic-ai-audits.github.io/durham-transport/
 ```
 
 Bookmark this URL for easy access.
@@ -169,8 +169,8 @@ Your deployed site:
 Add to README.md:
 
 ```markdown
-[![Deploy](https://github.com/jonasneves/durham-transport-safety-audit/actions/workflows/deploy.yml/badge.svg)](https://github.com/jonasneves/durham-transport-safety-audit/actions/workflows/deploy.yml)
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://jonasneves.github.io/durham-transport-safety-audit/)
+[![Deploy](https://github.com/civic-ai-audits/durham-transport/actions/workflows/deploy.yml/badge.svg)](https://github.com/civic-ai-audits/durham-transport/actions/workflows/deploy.yml)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://civic-ai-audits.github.io/durham-transport/)
 ```
 
 ## Next Steps
@@ -181,4 +181,4 @@ Add to README.md:
 4. ✅ Wait for deployment
 5. 🎉 Share your live demo URL!
 
-**Live Demo:** https://jonasneves.github.io/durham-transport-safety-audit/
+**Live Demo:** https://civic-ai-audits.github.io/durham-transport/

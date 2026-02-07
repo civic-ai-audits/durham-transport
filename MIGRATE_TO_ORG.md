@@ -50,7 +50,7 @@ gh api -X POST /repos/jonasneves/durham-transport/transfer \
 ```
 
 **Or use web interface:**
-1. Go to: https://github.com/jonasneves/durham-transport-safety-audit/settings
+1. Go to: https://github.com/civic-ai-audits/durham-transport/settings
 2. Scroll to "Danger Zone"
 3. Click "Transfer"
 4. Enter: `civic-ai-audits/durham-transport`
@@ -147,8 +147,8 @@ gh repo edit civic-ai-audits/durham-transport \
 
 | Resource | Old URL | New URL |
 |----------|---------|---------|
-| Repository | `jonasneves/durham-transport-safety-audit` | `civic-ai-audits/durham-transport` |
-| Live Demo | `jonasneves.github.io/durham-transport-safety-audit` | `civic-ai-audits.github.io/durham-transport` |
+| Repository | `civic-ai-audits/durham-transport` | `civic-ai-audits/durham-transport` |
+| Live Demo | `civic-ai-audits.github.io/durham-transport` | `civic-ai-audits.github.io/durham-transport` |
 | GitHub URL | `github.com/jonasneves/...` | `github.com/civic-ai-audits/durham-transport` |
 
 ---
@@ -189,7 +189,7 @@ After migration to organization:
 
 ✅ **More Professional**
    - `civic-ai-audits.github.io/durham-transport`
-   - vs `jonasneves.github.io/durham-transport-safety-audit`
+   - vs `civic-ai-audits.github.io/durham-transport`
 
 ✅ **Cleaner URLs**
    - Shorter and more memorable

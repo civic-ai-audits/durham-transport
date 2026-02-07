@@ -8,7 +8,7 @@
 # Already initialized: git init
 
 # Add remote (replace USERNAME with your GitHub username)
-git remote add origin https://github.com/jonasneves/durham-transport-safety-audit.git
+git remote add origin https://github.com/civic-ai-audits/durham-transport.git
 ```
 
 ### 2. Install gh-pages package
@@ -29,7 +29,7 @@ git push -u origin main
 
 ### 4. Enable GitHub Pages
 
-1. Go to: https://github.com/jonasneves/durham-transport-safety-audit/settings/pages
+1. Go to: https://github.com/civic-ai-audits/durham-transport/settings/pages
 2. Under "Build and deployment":
    - Source: GitHub Actions
 3. The GitHub Action will automatically deploy on push to main
@@ -38,7 +38,7 @@ git push -u origin main
 
 After GitHub Actions completes (~2-3 minutes):
 
-**https://jonasneves.github.io/durham-transport-safety-audit/**
+**https://civic-ai-audits.github.io/durham-transport/**
 
 ## How It Works
 
@@ -158,7 +158,7 @@ Open: http://localhost:5173
 ## GitHub Actions Status
 
 View deployment status:
-https://github.com/jonasneves/durham-transport-safety-audit/actions
+https://github.com/civic-ai-audits/durham-transport/actions
 
 ## Custom Domain (Optional)
 

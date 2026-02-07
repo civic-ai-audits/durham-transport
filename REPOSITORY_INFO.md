@@ -2,9 +2,9 @@
 
 ## 🎉 Repository Created Successfully!
 
-**Repository URL:** https://github.com/jonasneves/durham-transport-safety-audit
+**Repository URL:** https://github.com/civic-ai-audits/durham-transport
 
-**Live Demo:** https://jonasneves.github.io/durham-transport-safety-audit/
+**Live Demo:** https://civic-ai-audits.github.io/durham-transport/
 
 ---
 
@@ -16,7 +16,7 @@
 - **Visibility:** Public
 - **License:** MIT License
 - **Description:** AI equity auditing tool for Durham, NC transportation safety systems. Evaluates bias in AI tools used for infrastructure planning.
-- **Homepage:** https://jonasneves.github.io/durham-transport-safety-audit/
+- **Homepage:** https://civic-ai-audits.github.io/durham-transport/
 
 ### Topics/Tags (15)
 
@@ -83,18 +83,18 @@ Created templates for better collaboration:
 - **Branch:** main
 - **Path:** /
 - **HTTPS:** Enforced
-- **URL:** https://jonasneves.github.io/durham-transport-safety-audit/
+- **URL:** https://civic-ai-audits.github.io/durham-transport/
 
 ### First Deployment
 
 A deployment has been triggered automatically. Check status:
 
 ```bash
-gh run watch --repo jonasneves/durham-transport-safety-audit
+gh run watch --repo civic-ai-audits/durham-transport
 ```
 
 Or view in browser:
-https://github.com/jonasneves/durham-transport-safety-audit/actions
+https://github.com/civic-ai-audits/durham-transport/actions
 
 Expected deployment time: 2-3 minutes
 
@@ -104,12 +104,12 @@ Expected deployment time: 2-3 minutes
 
 | Resource | URL |
 |----------|-----|
-| Repository | https://github.com/jonasneves/durham-transport-safety-audit |
-| Live Demo | https://jonasneves.github.io/durham-transport-safety-audit/ |
-| Issues | https://github.com/jonasneves/durham-transport-safety-audit/issues |
-| Actions | https://github.com/jonasneves/durham-transport-safety-audit/actions |
-| Settings | https://github.com/jonasneves/durham-transport-safety-audit/settings |
-| Pages Settings | https://github.com/jonasneves/durham-transport-safety-audit/settings/pages |
+| Repository | https://github.com/civic-ai-audits/durham-transport |
+| Live Demo | https://civic-ai-audits.github.io/durham-transport/ |
+| Issues | https://github.com/civic-ai-audits/durham-transport/issues |
+| Actions | https://github.com/civic-ai-audits/durham-transport/actions |
+| Settings | https://github.com/civic-ai-audits/durham-transport/settings |
+| Pages Settings | https://github.com/civic-ai-audits/durham-transport/settings/pages |
 
 ---
 
@@ -130,17 +130,17 @@ Once the first deployment completes, your site will be discoverable through:
 
 ```bash
 # Watch the deployment
-gh run watch --repo jonasneves/durham-transport-safety-audit
+gh run watch --repo civic-ai-audits/durham-transport
 
 # Or check status
-gh run list --repo jonasneves/durham-transport-safety-audit
+gh run list --repo civic-ai-audits/durham-transport
 ```
 
 ### Share Your Work
 
 Once deployed (2-3 minutes), share:
-- Live demo link: https://jonasneves.github.io/durham-transport-safety-audit/
-- GitHub repo: https://github.com/jonasneves/durham-transport-safety-audit
+- Live demo link: https://civic-ai-audits.github.io/durham-transport/
+- GitHub repo: https://github.com/civic-ai-audits/durham-transport
 - Highlight: Durham transportation equity analysis tool
 
 ### Future Updates
@@ -177,7 +177,7 @@ git push
 {
   "name": "durham-transport-safety-audit",
   "description": "AI equity auditing tool for Durham, NC transportation safety systems. Evaluates bias in AI tools used for infrastructure planning.",
-  "homepage": "https://jonasneves.github.io/durham-transport-safety-audit/",
+  "homepage": "https://civic-ai-audits.github.io/durham-transport/",
   "license": "MIT",
   "topics": [
     "ai-ethics", "bias-detection", "civic-tech", "data-visualization",
