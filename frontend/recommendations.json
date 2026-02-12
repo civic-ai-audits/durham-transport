@@ -37,9 +37,9 @@
           "pct_black": 30.8,
           "pct_hispanic": 49.3,
           "pct_minority": 72.6,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.468,
           "danger_score": 32.28,
           "median_income_y": 45032,
@@ -152,9 +152,9 @@
           "pct_black": 29.5,
           "pct_hispanic": 16.5,
           "pct_minority": 47.7,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.555,
           "danger_score": 28.01,
           "median_income_y": 86552,
@@ -247,9 +247,9 @@
           "pct_black": 13.8,
           "pct_hispanic": 4.1,
           "pct_minority": 20.1,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.555,
           "danger_score": 24.78,
           "median_income_y": 104872,
@@ -398,9 +398,9 @@
           "pct_black": 24.5,
           "pct_hispanic": 25.1,
           "pct_minority": 45.1,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.578,
           "danger_score": 27.83,
           "median_income_y": 91667,
@@ -572,9 +572,9 @@
           "pct_black": 4.7,
           "pct_hispanic": 9.6,
           "pct_minority": 11.7,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.422,
           "danger_score": 19.47,
           "median_income_y": 109034,
@@ -770,9 +770,9 @@
           "pct_black": 34.8,
           "pct_hispanic": 7.7,
           "pct_minority": 51.5,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.57,
           "danger_score": 22.06,
           "median_income_y": 124528,
@@ -909,9 +909,9 @@
           "pct_black": 9.8,
           "pct_hispanic": 0.6,
           "pct_minority": 23.3,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.443,
           "danger_score": 26.19,
           "median_income_y": 73500,
@@ -1060,9 +1060,9 @@
           "pct_black": 28.6,
           "pct_hispanic": 1.7,
           "pct_minority": 45.7,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.648,
           "danger_score": 15.54,
           "median_income_y": 179745,
@@ -1227,9 +1227,9 @@
           "pct_black": 18.2,
           "pct_hispanic": 4.4,
           "pct_minority": 29.4,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.459,
           "danger_score": 22.09,
           "median_income_y": 101250,
@@ -1320,6 +1320,85 @@
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
+          "OID": "207523717627429",
+          "GEOID": "37063002022",
+          "STATE": "37",
+          "COUNTY": "063",
+          "TRACT": "002022",
+          "BASENAME": "20.22",
+          "NAME_x": "Census Tract 20.22",
+          "LSADC": "CT",
+          "FUNCSTAT": "S",
+          "AREALAND": 2550623,
+          "AREAWATER": 47677,
+          "CENTLAT": "+35.9175382",
+          "CENTLON": "-078.9227167",
+          "INTPTLAT": "+35.9181850",
+          "INTPTLON": "-078.9230153",
+          "OBJECTID": 22712,
+          "tract_id": "37063002022",
+          "NAME_y": "Census Tract 20.22; Durham County; North Carolina",
+          "total_population": 4601,
+          "median_income_x": 68395,
+          "white_population": 1827,
+          "black_population": 1745,
+          "hispanic_population": 691,
+          "state": "37",
+          "county": "063",
+          "tract": "002022",
+          "pct_white": 39.7,
+          "pct_black": 37.9,
+          "pct_hispanic": 15.0,
+          "pct_minority": 60.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
+          "ai_priority": 0.387,
+          "danger_score": 24.96,
+          "median_income_y": 68395,
+          "population": 4601
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.9346499995933,
+                35.91068100019137
+              ],
+              [
+                -78.9164060004021,
+                35.90874899980618
+              ],
+              [
+                -78.91740300011173,
+                35.915485000172524
+              ],
+              [
+                -78.91089499962739,
+                35.926240999997134
+              ],
+              [
+                -78.92314999998968,
+                35.926561000087894
+              ],
+              [
+                -78.92708800039622,
+                35.92309500001683
+              ],
+              [
+                -78.9346499995933,
+                35.91068100019137
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "id": "12",
+        "type": "Feature",
+        "properties": {
+          "MTFCC": "G5020",
           "OID": "207523717627431",
           "GEOID": "37063002023",
           "STATE": "37",
@@ -1407,7 +1486,7 @@
         }
       },
       {
-        "id": "12",
+        "id": "13",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -1441,9 +1520,9 @@
           "pct_black": 29.7,
           "pct_hispanic": 6.2,
           "pct_minority": 57.9,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.461,
           "danger_score": 24.52,
           "median_income_y": 87394,
@@ -1514,7 +1593,7 @@
         }
       },
       {
-        "id": "13",
+        "id": "14",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -1548,9 +1627,9 @@
           "pct_black": 41.7,
           "pct_hispanic": 8.0,
           "pct_minority": 61.4,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.48,
           "danger_score": 25.8,
           "median_income_y": 83836,
@@ -1697,7 +1776,7 @@
         }
       },
       {
-        "id": "14",
+        "id": "15",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -1731,9 +1810,9 @@
           "pct_black": 8.7,
           "pct_hispanic": 1.1,
           "pct_minority": 26.4,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.615,
           "danger_score": 15.31,
           "median_income_y": 174087,
@@ -1804,7 +1883,7 @@
         }
       },
       {
-        "id": "15",
+        "id": "16",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -1838,9 +1917,9 @@
           "pct_black": 71.1,
           "pct_hispanic": 11.0,
           "pct_minority": 79.5,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.515,
           "danger_score": 30.32,
           "median_income_y": 65481,
@@ -1939,7 +2018,7 @@
         }
       },
       {
-        "id": "16",
+        "id": "17",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -1973,9 +2052,9 @@
           "pct_black": 25.5,
           "pct_hispanic": 11.7,
           "pct_minority": 44.1,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.483,
           "danger_score": 30.62,
           "median_income_y": 57096,
@@ -2018,7 +2097,7 @@
         }
       },
       {
-        "id": "17",
+        "id": "18",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -2052,9 +2131,9 @@
           "pct_black": 28.4,
           "pct_hispanic": 13.2,
           "pct_minority": 48.0,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.469,
           "danger_score": 29.34,
           "median_income_y": 61321,
@@ -2121,7 +2200,7 @@
         }
       },
       {
-        "id": "18",
+        "id": "19",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -2155,9 +2234,9 @@
           "pct_black": 11.7,
           "pct_hispanic": 8.3,
           "pct_minority": 21.8,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.454,
           "danger_score": 21.24,
           "median_income_y": 105484,
@@ -2312,7 +2391,7 @@
         }
       },
       {
-        "id": "19",
+        "id": "20",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -2346,9 +2425,9 @@
           "pct_black": 31.9,
           "pct_hispanic": 4.7,
           "pct_minority": 43.0,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.486,
           "danger_score": 26.48,
           "median_income_y": 81151,
@@ -2583,7 +2662,7 @@
         }
       },
       {
-        "id": "20",
+        "id": "21",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -2617,9 +2696,9 @@
           "pct_black": 17.7,
           "pct_hispanic": 4.5,
           "pct_minority": 25.3,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.416,
           "danger_score": 24.95,
           "median_income_y": 75137,
@@ -2758,7 +2837,7 @@
         }
       },
       {
-        "id": "21",
+        "id": "22",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -2792,9 +2871,9 @@
           "pct_black": 26.3,
           "pct_hispanic": 8.3,
           "pct_minority": 31.1,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.609,
           "danger_score": 28.75,
           "median_income_y": 93304,
@@ -3061,7 +3140,7 @@
         }
       },
       {
-        "id": "22",
+        "id": "23",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3095,9 +3174,9 @@
           "pct_black": 48.2,
           "pct_hispanic": 15.4,
           "pct_minority": 69.0,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.419,
           "danger_score": 27.89,
           "median_income_y": 58563,
@@ -3172,7 +3251,7 @@
         }
       },
       {
-        "id": "23",
+        "id": "24",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3206,9 +3285,9 @@
           "pct_black": 40.5,
           "pct_hispanic": 32.0,
           "pct_minority": 63.2,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.419,
           "danger_score": 27.04,
           "median_income_y": 63547,
@@ -3463,7 +3542,7 @@
         }
       },
       {
-        "id": "24",
+        "id": "25",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3626,7 +3705,7 @@
         }
       },
       {
-        "id": "25",
+        "id": "26",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3749,7 +3828,7 @@
         }
       },
       {
-        "id": "26",
+        "id": "27",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3783,9 +3862,9 @@
           "pct_black": 55.3,
           "pct_hispanic": 10.3,
           "pct_minority": 63.7,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.499,
           "danger_score": 27.03,
           "median_income_y": 80457,
@@ -3856,7 +3935,7 @@
         }
       },
       {
-        "id": "27",
+        "id": "28",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3890,9 +3969,9 @@
           "pct_black": 15.7,
           "pct_hispanic": 0.3,
           "pct_minority": 35.6,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.531,
           "danger_score": 29.18,
           "median_income_y": 74983,
@@ -3939,7 +4018,7 @@
         }
       },
       {
-        "id": "28",
+        "id": "29",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -3973,9 +4052,9 @@
           "pct_black": 58.2,
           "pct_hispanic": 12.7,
           "pct_minority": 69.3,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.574,
           "danger_score": 28.03,
           "median_income_y": 90221,
@@ -4034,7 +4113,7 @@
         }
       },
       {
-        "id": "29",
+        "id": "30",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -4068,9 +4147,9 @@
           "pct_black": 39.3,
           "pct_hispanic": 3.5,
           "pct_minority": 55.4,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.499,
           "danger_score": 24.98,
           "median_income_y": 92662,
@@ -4137,7 +4216,7 @@
         }
       },
       {
-        "id": "30",
+        "id": "31",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -4171,9 +4250,9 @@
           "pct_black": 58.5,
           "pct_hispanic": 21.2,
           "pct_minority": 69.1,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "ai_priority": 0.435,
           "danger_score": 30.83,
           "median_income_y": 45446,
@@ -4228,7 +4307,7 @@
         }
       },
       {
-        "id": "31",
+        "id": "32",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -4262,9 +4341,9 @@
           "pct_black": 10.2,
           "pct_hispanic": 3.3,
           "pct_minority": 19.4,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.435,
           "danger_score": 21.39,
           "median_income_y": 100398,
@@ -4311,7 +4390,7 @@
         }
       },
       {
-        "id": "32",
+        "id": "33",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -4345,9 +4424,9 @@
           "pct_black": 60.2,
           "pct_hispanic": 23.5,
           "pct_minority": 80.3,
-          "project_type": "crosswalk",
-          "cost": 50000,
-          "safety_impact": 0.15,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "ai_priority": 0.5,
           "danger_score": 30.46,
           "median_income_y": 61967,
@@ -4418,7 +4497,7 @@
         }
       },
       {
-        "id": "33",
+        "id": "34",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -4521,7 +4600,7 @@
         }
       },
       {
-        "id": "34",
+        "id": "35",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -4555,9 +4634,9 @@
           "pct_black": 5.5,
           "pct_hispanic": 3.4,
           "pct_minority": 14.9,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "ai_priority": 0.799,
           "danger_score": 15.83,
           "median_income_y": 201458,
@@ -4985,9 +5064,9 @@
           "pct_black": 29.5,
           "pct_hispanic": 16.5,
           "pct_minority": 47.7,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "danger_score": 28.01,
           "median_income_y": 86552,
           "population": 6112
@@ -5079,9 +5158,9 @@
           "pct_black": 43.1,
           "pct_hispanic": 0.0,
           "pct_minority": 59.6,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "danger_score": 27.18,
           "median_income_y": 53828,
           "population": 3218
@@ -5207,6 +5286,156 @@
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
+          "OID": "2075215707479464",
+          "GEOID": "37063001712",
+          "STATE": "37",
+          "COUNTY": "063",
+          "TRACT": "001712",
+          "BASENAME": "17.12",
+          "NAME_x": "Census Tract 17.12",
+          "LSADC": "CT",
+          "FUNCSTAT": "S",
+          "AREALAND": 9340512,
+          "AREAWATER": 153852,
+          "CENTLAT": "+36.0542156",
+          "CENTLON": "-078.9522847",
+          "INTPTLAT": "+36.0562712",
+          "INTPTLON": "-078.9472218",
+          "OBJECTID": 9731,
+          "tract_id": "37063001712",
+          "NAME_y": "Census Tract 17.12; Durham County; North Carolina",
+          "total_population": 5204,
+          "median_income_x": 104872,
+          "white_population": 4158,
+          "black_population": 716,
+          "hispanic_population": 211,
+          "state": "37",
+          "county": "063",
+          "tract": "001712",
+          "pct_white": 79.9,
+          "pct_black": 13.8,
+          "pct_hispanic": 4.1,
+          "pct_minority": 20.1,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
+          "danger_score": 24.78,
+          "median_income_y": 104872,
+          "population": 5204
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.97803600024407,
+                36.059326000172156
+              ],
+              [
+                -78.9681459999202,
+                36.04607400024923
+              ],
+              [
+                -78.96034199997545,
+                36.04162699994049
+              ],
+              [
+                -78.95772500004198,
+                36.040813000293376
+              ],
+              [
+                -78.95723600032045,
+                36.04269799979642
+              ],
+              [
+                -78.95473700038775,
+                36.04259000036149
+              ],
+              [
+                -78.95021700037324,
+                36.03885700007102
+              ],
+              [
+                -78.94169799985283,
+                36.03672200016179
+              ],
+              [
+                -78.9355140001319,
+                36.03754599967408
+              ],
+              [
+                -78.93627700038816,
+                36.04802899973588
+              ],
+              [
+                -78.93486899987643,
+                36.054527999778806
+              ],
+              [
+                -78.93720299995267,
+                36.057284000078766
+              ],
+              [
+                -78.94648099963307,
+                36.06183999967988
+              ],
+              [
+                -78.932620000189,
+                36.065716000189845
+              ],
+              [
+                -78.93559500032276,
+                36.06920100014794
+              ],
+              [
+                -78.93537500021473,
+                36.072511999731425
+              ],
+              [
+                -78.93896999959128,
+                36.07264000016243
+              ],
+              [
+                -78.9410250000083,
+                36.070163000288055
+              ],
+              [
+                -78.95345799974747,
+                36.07012299986904
+              ],
+              [
+                -78.95352100039497,
+                36.06749599975584
+              ],
+              [
+                -78.96084199956765,
+                36.06661100011055
+              ],
+              [
+                -78.96189899955176,
+                36.06237500011445
+              ],
+              [
+                -78.97227699977228,
+                36.06337000020004
+              ],
+              [
+                -78.97411000043142,
+                36.05958500010984
+              ],
+              [
+                -78.97803600024407,
+                36.059326000172156
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "type": "Feature",
+        "properties": {
+          "MTFCC": "G5020",
           "OID": "20752147574223",
           "GEOID": "37063000200",
           "STATE": "37",
@@ -5237,9 +5466,9 @@
           "pct_black": 24.5,
           "pct_hispanic": 25.1,
           "pct_minority": 45.1,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "danger_score": 27.83,
           "median_income_y": 91667,
           "population": 3381
@@ -5297,7 +5526,7 @@
         }
       },
       {
-        "id": "6",
+        "id": "7",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -5331,9 +5560,9 @@
           "pct_black": 6.6,
           "pct_hispanic": 14.0,
           "pct_minority": 25.4,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "danger_score": 27.25,
           "median_income_y": 83977,
           "population": 3662
@@ -5375,7 +5604,7 @@
         }
       },
       {
-        "id": "7",
+        "id": "8",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -5409,9 +5638,9 @@
           "pct_black": 37.2,
           "pct_hispanic": 32.2,
           "pct_minority": 59.5,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "danger_score": 25.53,
           "median_income_y": 32500,
           "population": 3378
@@ -5505,7 +5734,7 @@
         }
       },
       {
-        "id": "8",
+        "id": "9",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -5615,7 +5844,7 @@
         }
       },
       {
-        "id": "9",
+        "id": "10",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -5649,9 +5878,9 @@
           "pct_black": 9.8,
           "pct_hispanic": 0.6,
           "pct_minority": 23.3,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "danger_score": 26.19,
           "median_income_y": 73500,
           "population": 4752
@@ -5765,7 +5994,85 @@
         }
       },
       {
-        "id": "10",
+        "id": "11",
+        "type": "Feature",
+        "properties": {
+          "MTFCC": "G5020",
+          "OID": "207523717627429",
+          "GEOID": "37063002022",
+          "STATE": "37",
+          "COUNTY": "063",
+          "TRACT": "002022",
+          "BASENAME": "20.22",
+          "NAME_x": "Census Tract 20.22",
+          "LSADC": "CT",
+          "FUNCSTAT": "S",
+          "AREALAND": 2550623,
+          "AREAWATER": 47677,
+          "CENTLAT": "+35.9175382",
+          "CENTLON": "-078.9227167",
+          "INTPTLAT": "+35.9181850",
+          "INTPTLON": "-078.9230153",
+          "OBJECTID": 22712,
+          "tract_id": "37063002022",
+          "NAME_y": "Census Tract 20.22; Durham County; North Carolina",
+          "total_population": 4601,
+          "median_income_x": 68395,
+          "white_population": 1827,
+          "black_population": 1745,
+          "hispanic_population": 691,
+          "state": "37",
+          "county": "063",
+          "tract": "002022",
+          "pct_white": 39.7,
+          "pct_black": 37.9,
+          "pct_hispanic": 15.0,
+          "pct_minority": 60.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
+          "danger_score": 24.96,
+          "median_income_y": 68395,
+          "population": 4601
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.9346499995933,
+                35.91068100019137
+              ],
+              [
+                -78.9164060004021,
+                35.90874899980618
+              ],
+              [
+                -78.91740300011173,
+                35.915485000172524
+              ],
+              [
+                -78.91089499962739,
+                35.926240999997134
+              ],
+              [
+                -78.92314999998968,
+                35.926561000087894
+              ],
+              [
+                -78.92708800039622,
+                35.92309500001683
+              ],
+              [
+                -78.9346499995933,
+                35.91068100019137
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "id": "12",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -5855,7 +6162,7 @@
         }
       },
       {
-        "id": "11",
+        "id": "13",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -5961,7 +6268,7 @@
         }
       },
       {
-        "id": "12",
+        "id": "14",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6055,7 +6362,7 @@
         }
       },
       {
-        "id": "13",
+        "id": "15",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6089,9 +6396,9 @@
           "pct_black": 41.7,
           "pct_hispanic": 8.0,
           "pct_minority": 61.4,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "danger_score": 25.8,
           "median_income_y": 83836,
           "population": 6561
@@ -6237,7 +6544,7 @@
         }
       },
       {
-        "id": "14",
+        "id": "16",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6371,7 +6678,7 @@
         }
       },
       {
-        "id": "15",
+        "id": "17",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6449,7 +6756,7 @@
         }
       },
       {
-        "id": "16",
+        "id": "18",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6551,7 +6858,7 @@
         }
       },
       {
-        "id": "17",
+        "id": "19",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6585,9 +6892,9 @@
           "pct_black": 31.9,
           "pct_hispanic": 4.7,
           "pct_minority": 43.0,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "danger_score": 26.48,
           "median_income_y": 81151,
           "population": 5395
@@ -6821,7 +7128,181 @@
         }
       },
       {
-        "id": "18",
+        "id": "20",
+        "type": "Feature",
+        "properties": {
+          "MTFCC": "G5020",
+          "OID": "20752147573875",
+          "GEOID": "37063001603",
+          "STATE": "37",
+          "COUNTY": "063",
+          "TRACT": "001603",
+          "BASENAME": "16.03",
+          "NAME_x": "Census Tract 16.03",
+          "LSADC": "CT",
+          "FUNCSTAT": "S",
+          "AREALAND": 25712480,
+          "AREAWATER": 327729,
+          "CENTLAT": "+36.1165622",
+          "CENTLON": "-078.9303576",
+          "INTPTLAT": "+36.1332367",
+          "INTPTLON": "-078.9301437",
+          "OBJECTID": 38174,
+          "tract_id": "37063001603",
+          "NAME_y": "Census Tract 16.03; Durham County; North Carolina",
+          "total_population": 7310,
+          "median_income_x": 75137,
+          "white_population": 5463,
+          "black_population": 1294,
+          "hispanic_population": 330,
+          "state": "37",
+          "county": "063",
+          "tract": "001603",
+          "pct_white": 74.7,
+          "pct_black": 17.7,
+          "pct_hispanic": 4.5,
+          "pct_minority": 25.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
+          "danger_score": 24.95,
+          "median_income_y": 75137,
+          "population": 7310
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.97144499991906,
+                36.12061399995825
+              ],
+              [
+                -78.94813000016919,
+                36.122445999842235
+              ],
+              [
+                -78.9421599998102,
+                36.124566999874006
+              ],
+              [
+                -78.93001999997396,
+                36.11834000030161
+              ],
+              [
+                -78.92768000004992,
+                36.112532999659514
+              ],
+              [
+                -78.92981900013251,
+                36.109436999734434
+              ],
+              [
+                -78.93375099979295,
+                36.08784899990688
+              ],
+              [
+                -78.93028500028784,
+                36.07978399973275
+              ],
+              [
+                -78.93486300002866,
+                36.071916999638994
+              ],
+              [
+                -78.91427300016728,
+                36.068479999698766
+              ],
+              [
+                -78.9086140001529,
+                36.072033000257946
+              ],
+              [
+                -78.9110500003364,
+                36.081565999781276
+              ],
+              [
+                -78.91022900035387,
+                36.10252699967976
+              ],
+              [
+                -78.900707000276,
+                36.12431700033837
+              ],
+              [
+                -78.90575000034724,
+                36.13901100024819
+              ],
+              [
+                -78.91519899973184,
+                36.13837700006609
+              ],
+              [
+                -78.91791799977257,
+                36.14153300014965
+              ],
+              [
+                -78.92391700044388,
+                36.14266300007253
+              ],
+              [
+                -78.93030799985407,
+                36.139963000030896
+              ],
+              [
+                -78.93364100018809,
+                36.140325999946526
+              ],
+              [
+                -78.93386499959577,
+                36.13762199969797
+              ],
+              [
+                -78.93726599970186,
+                36.1377859998027
+              ],
+              [
+                -78.93936200012675,
+                36.140914000197185
+              ],
+              [
+                -78.94291700021866,
+                36.14231299994896
+              ],
+              [
+                -78.94069100009743,
+                36.14695300006526
+              ],
+              [
+                -78.94179900013518,
+                36.15105400001249
+              ],
+              [
+                -78.94918999962805,
+                36.14911999977012
+              ],
+              [
+                -78.95585600029615,
+                36.15123999965294
+              ],
+              [
+                -78.96330500041364,
+                36.14398800017817
+              ],
+              [
+                -78.96744700013637,
+                36.14322300006912
+              ],
+              [
+                -78.97144499991906,
+                36.12061399995825
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "id": "21",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -6987,7 +7468,7 @@
         }
       },
       {
-        "id": "19",
+        "id": "22",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -7021,9 +7502,9 @@
           "pct_black": 26.3,
           "pct_hispanic": 8.3,
           "pct_minority": 31.1,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "danger_score": 28.75,
           "median_income_y": 93304,
           "population": 9548
@@ -7289,7 +7770,7 @@
         }
       },
       {
-        "id": "20",
+        "id": "23",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -7399,7 +7880,149 @@
         }
       },
       {
-        "id": "21",
+        "id": "24",
+        "type": "Feature",
+        "properties": {
+          "MTFCC": "G5020",
+          "OID": "20752147573888",
+          "GEOID": "37063001711",
+          "STATE": "37",
+          "COUNTY": "063",
+          "TRACT": "001711",
+          "BASENAME": "17.11",
+          "NAME_x": "Census Tract 17.11",
+          "LSADC": "CT",
+          "FUNCSTAT": "S",
+          "AREALAND": 3884002,
+          "AREAWATER": 23975,
+          "CENTLAT": "+36.0590156",
+          "CENTLON": "-078.9295967",
+          "INTPTLAT": "+36.0589447",
+          "INTPTLON": "-078.9315016",
+          "OBJECTID": 41366,
+          "tract_id": "37063001711",
+          "NAME_y": "Census Tract 17.11; Durham County; North Carolina",
+          "total_population": 4649,
+          "median_income_x": 46120,
+          "white_population": 1753,
+          "black_population": 2272,
+          "hispanic_population": 776,
+          "state": "37",
+          "county": "063",
+          "tract": "001711",
+          "pct_white": 37.7,
+          "pct_black": 48.9,
+          "pct_hispanic": 16.7,
+          "pct_minority": 62.3,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
+          "danger_score": 25.01,
+          "median_income_y": 46120,
+          "population": 4649
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.94648099963307,
+                36.06183999967988
+              ],
+              [
+                -78.93720299995267,
+                36.057284000078766
+              ],
+              [
+                -78.93494900024238,
+                36.05465499965131
+              ],
+              [
+                -78.93627700038816,
+                36.04802899973588
+              ],
+              [
+                -78.93535199975018,
+                36.044176000097664
+              ],
+              [
+                -78.93275200043348,
+                36.04631199997788
+              ],
+              [
+                -78.9294819998486,
+                36.0440900000757
+              ],
+              [
+                -78.92929500025086,
+                36.05168900009318
+              ],
+              [
+                -78.92773299975337,
+                36.05165600029776
+              ],
+              [
+                -78.9277980000507,
+                36.04913799964698
+              ],
+              [
+                -78.92303600018687,
+                36.04874699984514
+              ],
+              [
+                -78.918631999625,
+                36.045733999803794
+              ],
+              [
+                -78.91903199965807,
+                36.05572800026421
+              ],
+              [
+                -78.92147399968937,
+                36.05747999972009
+              ],
+              [
+                -78.92641300000352,
+                36.057482999744124
+              ],
+              [
+                -78.92684399999875,
+                36.05937000020765
+              ],
+              [
+                -78.92125500030455,
+                36.06321299964037
+              ],
+              [
+                -78.9216519999646,
+                36.06621000028221
+              ],
+              [
+                -78.91488400008757,
+                36.06865999973801
+              ],
+              [
+                -78.93486300002866,
+                36.071916999638994
+              ],
+              [
+                -78.93559500032276,
+                36.06920100014794
+              ],
+              [
+                -78.932620000189,
+                36.065716000189845
+              ],
+              [
+                -78.94648099963307,
+                36.06183999967988
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "id": "25",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -7433,9 +8056,9 @@
           "pct_black": 40.5,
           "pct_hispanic": 32.0,
           "pct_minority": 63.2,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "danger_score": 27.04,
           "median_income_y": 63547,
           "population": 8934
@@ -7689,7 +8312,7 @@
         }
       },
       {
-        "id": "22",
+        "id": "26",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -7723,9 +8346,9 @@
           "pct_black": 48.5,
           "pct_hispanic": 10.7,
           "pct_minority": 71.4,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "traffic_signal",
+          "cost": 150000,
+          "safety_impact": 0.3,
           "danger_score": 29.32,
           "median_income_y": 84160,
           "population": 6443
@@ -7811,7 +8434,7 @@
         }
       },
       {
-        "id": "23",
+        "id": "27",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -7845,9 +8468,9 @@
           "pct_black": 55.3,
           "pct_hispanic": 10.3,
           "pct_minority": 63.7,
-          "project_type": "traffic_signal",
-          "cost": 150000,
-          "safety_impact": 0.3,
+          "project_type": "bike_lane",
+          "cost": 200000,
+          "safety_impact": 0.25,
           "danger_score": 27.03,
           "median_income_y": 80457,
           "population": 3845
@@ -7917,7 +8540,7 @@
         }
       },
       {
-        "id": "24",
+        "id": "28",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -7999,7 +8622,7 @@
         }
       },
       {
-        "id": "25",
+        "id": "29",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -8033,9 +8656,9 @@
           "pct_black": 58.2,
           "pct_hispanic": 12.7,
           "pct_minority": 69.3,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "danger_score": 28.03,
           "median_income_y": 90221,
           "population": 6329
@@ -8093,7 +8716,109 @@
         }
       },
       {
-        "id": "26",
+        "id": "30",
+        "type": "Feature",
+        "properties": {
+          "MTFCC": "G5020",
+          "OID": "2075219640549872",
+          "GEOID": "37063002038",
+          "STATE": "37",
+          "COUNTY": "063",
+          "TRACT": "002038",
+          "BASENAME": "20.38",
+          "NAME_x": "Census Tract 20.38",
+          "LSADC": "CT",
+          "FUNCSTAT": "S",
+          "AREALAND": 12622256,
+          "AREAWATER": 55347,
+          "CENTLAT": "+35.9122580",
+          "CENTLON": "-078.8317033",
+          "INTPTLAT": "+35.9116280",
+          "INTPTLON": "-078.8316220",
+          "OBJECTID": 53188,
+          "tract_id": "37063002038",
+          "NAME_y": "Census Tract 20.38; Durham County; North Carolina",
+          "total_population": 6399,
+          "median_income_x": 92662,
+          "white_population": 2853,
+          "black_population": 2513,
+          "hispanic_population": 226,
+          "state": "37",
+          "county": "063",
+          "tract": "002038",
+          "pct_white": 44.6,
+          "pct_black": 39.3,
+          "pct_hispanic": 3.5,
+          "pct_minority": 55.4,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
+          "danger_score": 24.98,
+          "median_income_y": 92662,
+          "population": 6399
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.85279399993804,
+                35.90356200006189
+              ],
+              [
+                -78.84936199986979,
+                35.89762699986515
+              ],
+              [
+                -78.8421810004392,
+                35.89810900001573
+              ],
+              [
+                -78.82296400003112,
+                35.89254999999524
+              ],
+              [
+                -78.81904999991404,
+                35.89539000012206
+              ],
+              [
+                -78.81939300004571,
+                35.89256999977834
+              ],
+              [
+                -78.80675600009201,
+                35.92292500033976
+              ],
+              [
+                -78.81059599969095,
+                35.92592599972284
+              ],
+              [
+                -78.82225400037666,
+                35.9258479998075
+              ],
+              [
+                -78.84360599977103,
+                35.930648000339964
+              ],
+              [
+                -78.84670999977621,
+                35.9240999998205
+              ],
+              [
+                -78.85241399999644,
+                35.92466899988592
+              ],
+              [
+                -78.85279399993804,
+                35.90356200006189
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "id": "31",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -8183,7 +8908,7 @@
         }
       },
       {
-        "id": "27",
+        "id": "32",
         "type": "Feature",
         "properties": {
           "MTFCC": "G5020",
@@ -8217,9 +8942,9 @@
           "pct_black": 60.2,
           "pct_hispanic": 23.5,
           "pct_minority": 80.3,
-          "project_type": "bike_lane",
-          "cost": 200000,
-          "safety_impact": 0.25,
+          "project_type": "speed_reduction",
+          "cost": 75000,
+          "safety_impact": 0.2,
           "danger_score": 30.46,
           "median_income_y": 61967,
           "population": 8827

@@ -15,27 +15,27 @@
     {
       "variable1": "infrastructure_score",
       "variable2": "median_income",
-      "correlation": 0.9180274513003965
+      "correlation": -0.18423312161688038
     },
     {
       "variable1": "infrastructure_score",
       "variable2": "potential_demand",
-      "correlation": 0.14017335245608434
+      "correlation": -0.5719110612759061
     },
     {
       "variable1": "infrastructure_score",
       "variable2": "actual_demand",
-      "correlation": 0.7346239439729549
+      "correlation": 0.9307224243291882
     },
     {
       "variable1": "infrastructure_score",
       "variable2": "suppressed_demand",
-      "correlation": -0.19485390295329336
+      "correlation": -0.6324748386936838
     },
     {
       "variable1": "median_income",
       "variable2": "infrastructure_score",
-      "correlation": 0.9180274513003965
+      "correlation": -0.18423312161688038
     },
     {
       "variable1": "median_income",
@@ -50,17 +50,17 @@
     {
       "variable1": "median_income",
       "variable2": "actual_demand",
-      "correlation": 0.6849275853436204
+      "correlation": -0.09291726716962377
     },
     {
       "variable1": "median_income",
       "variable2": "suppressed_demand",
-      "correlation": -0.17987385884327722
+      "correlation": 0.13550242504290713
     },
     {
       "variable1": "potential_demand",
       "variable2": "infrastructure_score",
-      "correlation": 0.14017335245608434
+      "correlation": -0.5719110612759061
     },
     {
       "variable1": "potential_demand",
@@ -75,27 +75,27 @@
     {
       "variable1": "potential_demand",
       "variable2": "actual_demand",
-      "correlation": 0.675773195397948
+      "correlation": -0.369611476213404
     },
     {
       "variable1": "potential_demand",
       "variable2": "suppressed_demand",
-      "correlation": 0.9273508991125438
+      "correlation": 0.9967434939276986
     },
     {
       "variable1": "actual_demand",
       "variable2": "infrastructure_score",
-      "correlation": 0.7346239439729549
+      "correlation": 0.9307224243291882
     },
     {
       "variable1": "actual_demand",
       "variable2": "median_income",
-      "correlation": 0.6849275853436204
+      "correlation": -0.09291726716962377
     },
     {
       "variable1": "actual_demand",
       "variable2": "potential_demand",
-      "correlation": 0.675773195397948
+      "correlation": -0.369611476213404
     },
     {
       "variable1": "actual_demand",
@@ -105,27 +105,27 @@
     {
       "variable1": "actual_demand",
       "variable2": "suppressed_demand",
-      "correlation": 0.35085771116162723
+      "correlation": -0.44333510734657616
     },
     {
       "variable1": "suppressed_demand",
       "variable2": "infrastructure_score",
-      "correlation": -0.19485390295329336
+      "correlation": -0.6324748386936838
     },
     {
       "variable1": "suppressed_demand",
       "variable2": "median_income",
-      "correlation": -0.17987385884327722
+      "correlation": 0.13550242504290713
     },
     {
       "variable1": "suppressed_demand",
       "variable2": "potential_demand",
-      "correlation": 0.9273508991125438
+      "correlation": 0.9967434939276986
     },
     {
       "variable1": "suppressed_demand",
       "variable2": "actual_demand",
-      "correlation": 0.35085771116162723
+      "correlation": -0.44333510734657616
     },
     {
       "variable1": "suppressed_demand",
@@ -136,37 +136,37 @@
   "matrix": {
     "infrastructure_score": {
       "infrastructure_score": 1.0,
-      "median_income": 0.9180274513003965,
-      "potential_demand": 0.14017335245608434,
-      "actual_demand": 0.7346239439729549,
-      "suppressed_demand": -0.19485390295329336
+      "median_income": -0.18423312161688038,
+      "potential_demand": -0.5719110612759061,
+      "actual_demand": 0.9307224243291882,
+      "suppressed_demand": -0.6324748386936838
     },
     "median_income": {
-      "infrastructure_score": 0.9180274513003965,
+      "infrastructure_score": -0.18423312161688038,
       "median_income": 1.0,
       "potential_demand": 0.13210644015362086,
-      "actual_demand": 0.6849275853436204,
-      "suppressed_demand": -0.17987385884327722
+      "actual_demand": -0.09291726716962377,
+      "suppressed_demand": 0.13550242504290713
     },
     "potential_demand": {
-      "infrastructure_score": 0.14017335245608434,
+      "infrastructure_score": -0.5719110612759061,
       "median_income": 0.13210644015362086,
       "potential_demand": 1.0,
-      "actual_demand": 0.675773195397948,
-      "suppressed_demand": 0.9273508991125438
+      "actual_demand": -0.369611476213404,
+      "suppressed_demand": 0.9967434939276986
     },
     "actual_demand": {
-      "infrastructure_score": 0.7346239439729549,
-      "median_income": 0.6849275853436204,
-      "potential_demand": 0.675773195397948,
+      "infrastructure_score": 0.9307224243291882,
+      "median_income": -0.09291726716962377,
+      "potential_demand": -0.369611476213404,
       "actual_demand": 1.0,
-      "suppressed_demand": 0.35085771116162723
+      "suppressed_demand": -0.44333510734657616
     },
     "suppressed_demand": {
-      "infrastructure_score": -0.19485390295329336,
-      "median_income": -0.17987385884327722,
-      "potential_demand": 0.9273508991125438,
-      "actual_demand": 0.35085771116162723,
+      "infrastructure_score": -0.6324748386936838,
+      "median_income": 0.13550242504290713,
+      "potential_demand": 0.9967434939276986,
+      "actual_demand": -0.44333510734657616,
       "suppressed_demand": 1.0
     }
   }

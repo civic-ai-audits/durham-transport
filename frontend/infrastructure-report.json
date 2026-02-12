@@ -1,10 +1,10 @@
 {
   "summary": {
     "total_budget": 5000000,
-    "ai_projects": 35,
-    "need_based_projects": 28,
-    "budget_allocated_ai": 5000000.0,
-    "budget_allocated_need": 4975000.0
+    "ai_projects": 36,
+    "need_based_projects": 33,
+    "budget_allocated_ai": 4975000.0,
+    "budget_allocated_need": 4950000.0
   },
   "danger_scores": [
     {
@@ -480,9 +480,9 @@
   "ai_recommendations": [
     {
       "tract_id": "37063002008",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.799,
       "danger_score": 15.83,
       "median_income": 201458,
@@ -490,9 +490,9 @@
     },
     {
       "tract_id": "37063002020",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.648,
       "danger_score": 15.54,
       "median_income": 179745,
@@ -500,9 +500,9 @@
     },
     {
       "tract_id": "37063002030",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.615,
       "danger_score": 15.31,
       "median_income": 174087,
@@ -510,9 +510,9 @@
     },
     {
       "tract_id": "37063002100",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.609,
       "danger_score": 28.75,
       "median_income": 93304,
@@ -530,9 +530,9 @@
     },
     {
       "tract_id": "37063000200",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.578,
       "danger_score": 27.83,
       "median_income": 91667,
@@ -540,9 +540,9 @@
     },
     {
       "tract_id": "37063001811",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.574,
       "danger_score": 28.03,
       "median_income": 90221,
@@ -550,9 +550,9 @@
     },
     {
       "tract_id": "37063001808",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.57,
       "danger_score": 22.06,
       "median_income": 124528,
@@ -560,9 +560,9 @@
     },
     {
       "tract_id": "37063001712",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.555,
       "danger_score": 24.78,
       "median_income": 104872,
@@ -570,9 +570,9 @@
     },
     {
       "tract_id": "37063002034",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.555,
       "danger_score": 28.01,
       "median_income": 86552,
@@ -580,9 +580,9 @@
     },
     {
       "tract_id": "37063002029",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.531,
       "danger_score": 29.18,
       "median_income": 74983,
@@ -600,9 +600,9 @@
     },
     {
       "tract_id": "37063001708",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.515,
       "danger_score": 30.32,
       "median_income": 65481,
@@ -620,9 +620,9 @@
     },
     {
       "tract_id": "37063002026",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.5,
       "danger_score": 30.46,
       "median_income": 61967,
@@ -630,9 +630,9 @@
     },
     {
       "tract_id": "37063002038",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.499,
       "danger_score": 24.98,
       "median_income": 92662,
@@ -640,9 +640,9 @@
     },
     {
       "tract_id": "37063000101",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.499,
       "danger_score": 27.03,
       "median_income": 80457,
@@ -650,9 +650,9 @@
     },
     {
       "tract_id": "37063001601",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.486,
       "danger_score": 26.48,
       "median_income": 81151,
@@ -660,9 +660,9 @@
     },
     {
       "tract_id": "37063000301",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.483,
       "danger_score": 30.62,
       "median_income": 57096,
@@ -670,9 +670,9 @@
     },
     {
       "tract_id": "37063002035",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.48,
       "danger_score": 25.8,
       "median_income": 83836,
@@ -680,9 +680,9 @@
     },
     {
       "tract_id": "37063001706",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.469,
       "danger_score": 29.34,
       "median_income": 61321,
@@ -690,9 +690,9 @@
     },
     {
       "tract_id": "37063001002",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.468,
       "danger_score": 32.28,
       "median_income": 45032,
@@ -700,9 +700,9 @@
     },
     {
       "tract_id": "37063002037",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.461,
       "danger_score": 24.52,
       "median_income": 87394,
@@ -720,9 +720,9 @@
     },
     {
       "tract_id": "37063002024",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.459,
       "danger_score": 22.09,
       "median_income": 101250,
@@ -730,9 +730,9 @@
     },
     {
       "tract_id": "37063001900",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.454,
       "danger_score": 21.24,
       "median_income": 105484,
@@ -740,9 +740,9 @@
     },
     {
       "tract_id": "37063002019",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.443,
       "danger_score": 26.19,
       "median_income": 73500,
@@ -750,9 +750,9 @@
     },
     {
       "tract_id": "37063002033",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.435,
       "danger_score": 21.39,
       "median_income": 100398,
@@ -760,9 +760,9 @@
     },
     {
       "tract_id": "37063001301",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.435,
       "danger_score": 30.83,
       "median_income": 45446,
@@ -780,9 +780,9 @@
     },
     {
       "tract_id": "37063000401",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "ai_priority": 0.422,
       "danger_score": 19.47,
       "median_income": 109034,
@@ -800,9 +800,9 @@
     },
     {
       "tract_id": "37063001710",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "ai_priority": 0.419,
       "danger_score": 27.89,
       "median_income": 58563,
@@ -810,9 +810,9 @@
     },
     {
       "tract_id": "37063001801",
-      "project_type": "crosswalk",
-      "cost": 50000,
-      "safety_impact": 0.15,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.419,
       "danger_score": 27.04,
       "median_income": 63547,
@@ -820,13 +820,23 @@
     },
     {
       "tract_id": "37063001603",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "ai_priority": 0.416,
       "danger_score": 24.95,
       "median_income": 75137,
       "population": 7310
+    },
+    {
+      "tract_id": "37063002022",
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
+      "ai_priority": 0.387,
+      "danger_score": 24.96,
+      "median_income": 68395,
+      "population": 4601
     }
   ],
   "need_based_recommendations": [
@@ -859,9 +869,9 @@
     },
     {
       "tract_id": "37063002026",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "danger_score": 30.46,
       "median_income": 61967,
       "population": 8827
@@ -895,9 +905,9 @@
     },
     {
       "tract_id": "37063002025",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "danger_score": 29.32,
       "median_income": 84160,
       "population": 6443
@@ -913,27 +923,27 @@
     },
     {
       "tract_id": "37063002100",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "danger_score": 28.75,
       "median_income": 93304,
       "population": 9548
     },
     {
       "tract_id": "37063001811",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "danger_score": 28.03,
       "median_income": 90221,
       "population": 6329
     },
     {
       "tract_id": "37063002034",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "danger_score": 28.01,
       "median_income": 86552,
       "population": 6112
@@ -949,9 +959,9 @@
     },
     {
       "tract_id": "37063000200",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "danger_score": 27.83,
       "median_income": 91667,
       "population": 3381
@@ -976,45 +986,45 @@
     },
     {
       "tract_id": "37063000302",
-      "project_type": "bike_lane",
-      "cost": 200000,
-      "safety_impact": 0.25,
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
       "danger_score": 27.25,
       "median_income": 83977,
       "population": 3662
     },
     {
       "tract_id": "37063002036",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "danger_score": 27.18,
       "median_income": 53828,
       "population": 3218
     },
     {
       "tract_id": "37063001801",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "danger_score": 27.04,
       "median_income": 63547,
       "population": 8934
     },
     {
       "tract_id": "37063000101",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "danger_score": 27.03,
       "median_income": 80457,
       "population": 3845
     },
     {
       "tract_id": "37063001601",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "danger_score": 26.48,
       "median_income": 81151,
       "population": 5395
@@ -1030,9 +1040,9 @@
     },
     {
       "tract_id": "37063002019",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
       "danger_score": 26.19,
       "median_income": 73500,
       "population": 4752
@@ -1048,18 +1058,18 @@
     },
     {
       "tract_id": "37063002035",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "danger_score": 25.8,
       "median_income": 83836,
       "population": 6561
     },
     {
       "tract_id": "37063001001",
-      "project_type": "traffic_signal",
-      "cost": 150000,
-      "safety_impact": 0.3,
+      "project_type": "bike_lane",
+      "cost": 200000,
+      "safety_impact": 0.25,
       "danger_score": 25.53,
       "median_income": 32500,
       "population": 3378
@@ -1074,6 +1084,51 @@
       "population": 4724
     },
     {
+      "tract_id": "37063001711",
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
+      "danger_score": 25.01,
+      "median_income": 46120,
+      "population": 4649
+    },
+    {
+      "tract_id": "37063002038",
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
+      "danger_score": 24.98,
+      "median_income": 92662,
+      "population": 6399
+    },
+    {
+      "tract_id": "37063002022",
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
+      "danger_score": 24.96,
+      "median_income": 68395,
+      "population": 4601
+    },
+    {
+      "tract_id": "37063001603",
+      "project_type": "speed_reduction",
+      "cost": 75000,
+      "safety_impact": 0.2,
+      "danger_score": 24.95,
+      "median_income": 75137,
+      "population": 7310
+    },
+    {
+      "tract_id": "37063001712",
+      "project_type": "traffic_signal",
+      "cost": 150000,
+      "safety_impact": 0.3,
+      "danger_score": 24.78,
+      "median_income": 104872,
+      "population": 5204
+    },
+    {
       "tract_id": "37063002037",
       "project_type": "speed_reduction",
       "cost": 75000,
@@ -1086,52 +1141,55 @@
   "equity_metrics": {
     "ai_allocation": {
       "by_quintile": {
-        "Q1 (Poorest)": 100000,
-        "Q2": 250000,
-        "Q3": 550000,
-        "Q4": 1900000,
-        "Q5 (Richest)": 2200000
+        "Q1 (Poorest)": 400000,
+        "Q2": 750000,
+        "Q3": 775000,
+        "Q4": 1575000,
+        "Q5 (Richest)": 1475000
       },
       "per_capita": {
-        "Q1 (Poorest)": 1.756358016017985,
-        "Q2": 4.275550690928991,
-        "Q3": 8.887021716649432,
-        "Q4": 28.981528089202094,
-        "Q5 (Richest)": 26.74902122899594
+        "Q1 (Poorest)": 7.02543206407194,
+        "Q2": 12.826652072786976,
+        "Q3": 12.522621509824198,
+        "Q4": 24.024161442364893,
+        "Q5 (Richest)": 17.93400286944046
       },
-      "disparate_impact_ratio": 0.06566064608427963,
-      "gini_coefficient": 0.21542857142857152
+      "disparate_impact_ratio": 0.3917380918926514,
+      "gini_coefficient": 0.20198213288665556
     },
     "need_based_allocation": {
       "by_quintile": {
-        "Q1 (Poorest)": 750000,
-        "Q2": 1500000,
-        "Q3": 850000,
-        "Q4": 1675000,
-        "Q5 (Richest)": 200000
+        "Q1 (Poorest)": 950000,
+        "Q2": 1350000,
+        "Q3": 925000,
+        "Q4": 1425000,
+        "Q5 (Richest)": 300000
       },
       "per_capita": {
-        "Q1 (Poorest)": 13.172685120134888,
-        "Q2": 25.65330414557395,
-        "Q3": 13.73448810754912,
-        "Q4": 25.549505026007107,
-        "Q5 (Richest)": 2.4317292026359945
+        "Q1 (Poorest)": 16.685401152170858,
+        "Q2": 23.087973731016554,
+        "Q3": 14.946354705274043,
+        "Q4": 21.73614606690157,
+        "Q5 (Richest)": 3.6475938039539915
       },
-      "disparate_impact_ratio": 5.41700330195307,
-      "gini_coefficient": 0.08165829145728631
+      "disparate_impact_ratio": 4.574358343871482,
+      "gini_coefficient": 0.18824609733700637
     },
     "comparison": {
-      "equity_gap": 5.35134265586879,
-      "gini_improvement": -0.1337702799712852
+      "equity_gap": 4.182620251978831,
+      "gini_improvement": -0.013736035549649195
     }
   },
   "findings": [
-    "AI allocation shows severe inequity: poorest quintile receives 6.6% as much per capita as richest quintile",
-    "AI allocation is 99% less equitable than need-based allocation",
-    "Poorest quintile receives only 2.0% of total budget despite having highest crash rates"
+    "AI allocation shows severe inequity: poorest quintile receives 39.2% as much per capita as richest quintile",
+    "AI allocation is 91% less equitable than need-based allocation",
+    "Poorest quintile receives only 8.0% of total budget despite having highest crash rates"
   ],
   "_provenance": {
-    "data_type": "simulated",
+    "data_type": "mixed",
+    "real": [
+      "infrastructure gap analysis (OpenStreetMap)"
+    ],
     "simulated": [
       "danger scores",
       "AI recommendations",

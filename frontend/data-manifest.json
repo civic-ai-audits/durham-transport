@@ -30,8 +30,9 @@
       ]
     },
     "infrastructure_recommendations": {
-      "type": "simulated",
-      "rationale": "No public dataset of Durham safety project allocations",
+      "type": "mixed",
+      "real_source": "OpenStreetMap infrastructure density per tract",
+      "rationale": "Project selection uses real OSM infrastructure gaps; danger scores and allocation logic are simulated",
       "files": [
         "infrastructure-report.json",
         "danger-scores.json",
@@ -40,8 +41,9 @@
       ]
     },
     "suppressed_demand": {
-      "type": "simulated",
-      "rationale": "Suppressed demand is inherently unobservable",
+      "type": "mixed",
+      "real_source": "OpenStreetMap infrastructure density per tract",
+      "rationale": "Infrastructure scores from OSM; demand modeling and AI detection are simulated",
       "files": [
         "demand-report.json",
         "demand-funnel.json",
@@ -75,6 +77,22 @@
       4500000,
       5500000
     ],
-    "confusion_matrix_min_f1_spread": 0.05
+    "confusion_matrix_min_f1_spread": 0.05,
+    "osm_crossings_total": [
+      500,
+      10000
+    ],
+    "osm_bike_infra_total": [
+      50,
+      5000
+    ],
+    "osm_traffic_signals_total": [
+      100,
+      5000
+    ],
+    "osm_footways_total": [
+      2000,
+      50000
+    ]
   }
 }
