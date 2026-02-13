@@ -1,44 +1,44 @@
 {
   "Q1 (Poorest)": {
     "stage1_potential": 100.0,
-    "stage2_destinations": 80.61033113551409,
-    "stage3_would_use_if_safe": 55.91549670327113,
-    "stage4_actually_use": 3.48933978959751,
-    "total_suppression_pct": 96.51066021040249
+    "stage2_destinations": 80.70443752946723,
+    "stage3_would_use_if_safe": 56.05665629420085,
+    "stage4_actually_use": 3.9963306247610584,
+    "total_suppression_pct": 96.00366937523894
   },
   "Q2": {
     "stage1_potential": 100.0,
-    "stage2_destinations": 81.65208173172014,
-    "stage3_would_use_if_safe": 57.478122597580196,
-    "stage4_actually_use": 2.673307261882002,
-    "total_suppression_pct": 97.326692738118
+    "stage2_destinations": 81.69177557755776,
+    "stage3_would_use_if_safe": 57.53766336633663,
+    "stage4_actually_use": 2.6751781781142516,
+    "total_suppression_pct": 97.32482182188575
   },
   "Q3": {
     "stage1_potential": 100.0,
-    "stage2_destinations": 82.49456532926185,
-    "stage3_would_use_if_safe": 58.74184799389276,
-    "stage4_actually_use": 2.6940647137133804,
-    "total_suppression_pct": 97.30593528628661
+    "stage2_destinations": 82.53208225437929,
+    "stage3_would_use_if_safe": 58.79812338156892,
+    "stage4_actually_use": 2.387876679878688,
+    "total_suppression_pct": 97.61212332012131
   },
   "Q4": {
     "stage1_potential": 100.0,
-    "stage2_destinations": 83.31965082072702,
-    "stage3_would_use_if_safe": 59.97947623109052,
-    "stage4_actually_use": 2.5007728895029233,
-    "total_suppression_pct": 97.49922711049707
+    "stage2_destinations": 83.1357969027672,
+    "stage3_would_use_if_safe": 59.703695354150796,
+    "stage4_actually_use": 2.0329836397791756,
+    "total_suppression_pct": 97.96701636022082
   },
   "Q5 (Richest)": {
     "stage1_potential": 100.0,
-    "stage2_destinations": 85.24790287489384,
-    "stage3_would_use_if_safe": 62.871854312340744,
-    "stage4_actually_use": 2.954571311618555,
-    "total_suppression_pct": 97.04542868838143
+    "stage2_destinations": 85.3799302215936,
+    "stage3_would_use_if_safe": 63.06989533239038,
+    "stage4_actually_use": 3.7491176427993738,
+    "total_suppression_pct": 96.25088235720062
   },
   "overall": {
     "stage1_potential": 100.0,
     "stage2_destinations": 88.0,
     "stage3_would_use_if_safe": 65.0,
-    "stage4_actually_use": 2.8444319380198286,
-    "total_suppression_pct": 97.15556806198016
+    "stage4_actually_use": 2.915474539568591,
+    "total_suppression_pct": 97.08452546043141
   }
 }

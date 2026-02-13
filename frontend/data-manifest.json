@@ -2,7 +2,9 @@
   "sources": {
     "census_demographics": {
       "type": "real",
-      "provider": "US Census Bureau ACS 2022",
+      "provider": "US Census Bureau ACS 2024",
+      "temporal_coverage": "2020-2024",
+      "fetched_at": "2026-02-13T13:47:54.345594+00:00",
       "files": [
         "census-tracts.json",
         "choropleth-data.json"
@@ -11,6 +13,8 @@
     "crash_volumes": {
       "type": "real",
       "provider": "NCDOT Non-Motorist Crash Database (ArcGIS)",
+      "temporal_coverage": "2019-2024",
+      "fetched_at": "2026-02-13T13:47:53.041289+00:00",
       "files": [
         "crash-report.json",
         "crash-time-series.json",
@@ -32,6 +36,7 @@
     "infrastructure_recommendations": {
       "type": "mixed",
       "real_source": "OpenStreetMap infrastructure density per tract",
+      "fetched_at": "2026-02-13T13:48:05.783803+00:00",
       "rationale": "Project selection uses real OSM infrastructure gaps; danger scores and allocation logic are simulated",
       "files": [
         "infrastructure-report.json",
@@ -43,6 +48,7 @@
     "suppressed_demand": {
       "type": "mixed",
       "real_source": "OpenStreetMap infrastructure density per tract",
+      "fetched_at": "2026-02-13T13:48:05.783803+00:00",
       "rationale": "Infrastructure scores from OSM; demand modeling and AI detection are simulated",
       "files": [
         "demand-report.json",
@@ -57,9 +63,9 @@
       50,
       500
     ],
-    "crashes_total_5yr": [
-      250,
-      2500
+    "crashes_total": [
+      300,
+      3000
     ],
     "census_tracts": [
       60,

@@ -1,405 +1,405 @@
 {
   "nodes": [
     {
-      "id": "37063002100",
-      "name": "Tract 37063002100",
-      "potential": 1460.6666284207784,
-      "actual": 3.651666571051868,
-      "suppressed": 1457.0149618497264,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063002026",
-      "name": "Tract 37063002026",
-      "potential": 1404.0001173022106,
-      "actual": 11.77449478876307,
-      "suppressed": 1392.2256225134474,
-      "income_level": "Low"
-    },
-    {
       "id": "37063001808",
       "name": "Tract 37063001808",
-      "potential": 1350.2061149933083,
-      "actual": 3.375515287483199,
-      "suppressed": 1346.830599705825,
+      "potential": 1570.6264911575745,
+      "actual": 3.9265662278938525,
+      "suppressed": 1566.6999249296807,
       "income_level": "Medium"
     },
     {
       "id": "37063001801",
       "name": "Tract 37063001801",
-      "potential": 1261.8201184378067,
-      "actual": 3.15455029609445,
-      "suppressed": 1258.6655681417124,
+      "potential": 1327.9325127572224,
+      "actual": 3.319831281892985,
+      "suppressed": 1324.6126814753295,
       "income_level": "Low"
     },
     {
-      "id": "37063002025",
-      "name": "Tract 37063002025",
-      "potential": 1026.431354059396,
-      "actual": 16.356636555212383,
-      "suppressed": 1010.0747175041836,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001603",
-      "name": "Tract 37063001603",
-      "potential": 975.6560845228447,
-      "actual": 2.43914021130706,
-      "suppressed": 973.2169443115376,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001709",
-      "name": "Tract 37063001709",
-      "potential": 979.2653603477933,
-      "actual": 9.048277488326331,
-      "suppressed": 970.2170828594669,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001811",
-      "name": "Tract 37063001811",
-      "potential": 969.9678913269288,
-      "actual": 2.42491972831727,
-      "suppressed": 967.5429715986115,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001806",
-      "name": "Tract 37063001806",
-      "potential": 944.589276146152,
-      "actual": 2.3614731903653294,
-      "suppressed": 942.2278029557866,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001002",
-      "name": "Tract 37063001002",
-      "potential": 944.6862784659135,
-      "actual": 10.883656704256204,
-      "suppressed": 933.8026217616573,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063002034",
-      "name": "Tract 37063002034",
-      "potential": 934.9179473038483,
-      "actual": 5.368805397718803,
-      "suppressed": 929.5491419061295,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063002035",
-      "name": "Tract 37063002035",
-      "potential": 918.4445752647924,
-      "actual": 2.780149507381638,
-      "suppressed": 915.6644257574108,
+      "id": "37063002026",
+      "name": "Tract 37063002026",
+      "potential": 1257.8728870955467,
+      "actual": 10.549014612970185,
+      "suppressed": 1247.3238724825765,
       "income_level": "Low"
     },
     {
       "id": "37063002020",
       "name": "Tract 37063002020",
-      "potential": 902.5668188203057,
-      "actual": 2.256417047050716,
-      "suppressed": 900.310401773255,
+      "potential": 1201.8245836479923,
+      "actual": 3.0045614591199166,
+      "suppressed": 1198.8200221888724,
       "income_level": "High"
+    },
+    {
+      "id": "37063002037",
+      "name": "Tract 37063002037",
+      "potential": 1201.764477981654,
+      "actual": 32.65893422105785,
+      "suppressed": 1169.105543760596,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063001709",
+      "name": "Tract 37063001709",
+      "potential": 1148.9696400425205,
+      "actual": 10.616321734361012,
+      "suppressed": 1138.3533183081595,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063002100",
+      "name": "Tract 37063002100",
+      "potential": 1129.0229015449902,
+      "actual": 2.8225572538624153,
+      "suppressed": 1126.2003442911277,
+      "income_level": "Medium"
+    },
+    {
+      "id": "37063001604",
+      "name": "Tract 37063001604",
+      "potential": 1077.155995591644,
+      "actual": 2.6928899889790525,
+      "suppressed": 1074.4631056026649,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063002035",
+      "name": "Tract 37063002035",
+      "potential": 1015.0210861635279,
+      "actual": 3.0750012437128107,
+      "suppressed": 1011.9460849198151,
+      "income_level": "Low"
     },
     {
       "id": "37063002038",
       "name": "Tract 37063002038",
-      "potential": 875.3830886310726,
-      "actual": 7.32688240799512,
-      "suppressed": 868.0562062230775,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001706",
-      "name": "Tract 37063001706",
-      "potential": 853.083391762382,
-      "actual": 4.039084295086001,
-      "suppressed": 849.044307467296,
+      "potential": 1013.8155406166317,
+      "actual": 8.48555032187355,
+      "suppressed": 1005.3299902947581,
       "income_level": "Low"
     },
     {
       "id": "37063001809",
       "name": "Tract 37063001809",
-      "potential": 842.5262071584657,
-      "actual": 2.3036401007570317,
-      "suppressed": 840.2225670577087,
+      "potential": 1001.0132284999528,
+      "actual": 2.7369762447366055,
+      "suppressed": 998.2762522552161,
       "income_level": "Low"
     },
     {
       "id": "37063001802",
       "name": "Tract 37063001802",
-      "potential": 826.1036729125456,
-      "actual": 2.06525918228132,
-      "suppressed": 824.0384137302642,
+      "potential": 941.6937489483886,
+      "actual": 2.354234372370921,
+      "suppressed": 939.3395145760177,
       "income_level": "Low"
+    },
+    {
+      "id": "37063001603",
+      "name": "Tract 37063001603",
+      "potential": 911.8115211245585,
+      "actual": 2.2795288028113476,
+      "suppressed": 909.5319923217471,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063001806",
+      "name": "Tract 37063001806",
+      "potential": 891.1381539929918,
+      "actual": 2.227845384982432,
+      "suppressed": 888.9103086080094,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063001811",
+      "name": "Tract 37063001811",
+      "potential": 867.8117807061171,
+      "actual": 2.169529451765247,
+      "suppressed": 865.6422512543519,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063002034",
+      "name": "Tract 37063002034",
+      "potential": 806.8029457674618,
+      "actual": 4.6330996454002396,
+      "suppressed": 802.1698461220616,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063001711",
+      "name": "Tract 37063001711",
+      "potential": 802.0837924641537,
+      "actual": 4.046597829257304,
+      "suppressed": 798.0371946348964,
+      "income_level": "Low"
+    },
+    {
+      "id": "37063002024",
+      "name": "Tract 37063002024",
+      "potential": 793.8410040468068,
+      "actual": 17.282943946990056,
+      "suppressed": 776.5580600998168,
+      "income_level": "Medium"
     },
     {
       "id": "37063001708",
       "name": "Tract 37063001708",
-      "potential": 814.314067246619,
-      "actual": 2.561319890972467,
-      "suppressed": 811.7527473556465,
+      "potential": 772.1730329563536,
+      "actual": 2.4287707017895173,
+      "suppressed": 769.7442622545641,
       "income_level": "Low"
     },
     {
-      "id": "37063002037",
-      "name": "Tract 37063002037",
-      "potential": 829.3275193894328,
-      "actual": 22.53765475656374,
-      "suppressed": 806.7898646328691,
-      "income_level": "Low"
-    },
-    {
-      "id": "37063001601",
-      "name": "Tract 37063001601",
-      "potential": 781.9564973222086,
-      "actual": 1.95489124330548,
-      "suppressed": 780.0016060789031,
+      "id": "37063002025",
+      "name": "Tract 37063002025",
+      "potential": 772.9574640082789,
+      "actual": 12.31741826808076,
+      "suppressed": 760.640045740198,
       "income_level": "Low"
     }
   ],
   "links": [
     {
-      "source": "potential_37063002100",
-      "target": "actual_37063002100",
-      "value": 3.651666571051868,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063002100",
-      "target": "suppressed_37063002100",
-      "value": 1457.0149618497264,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063002026",
-      "target": "actual_37063002026",
-      "value": 11.77449478876307,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063002026",
-      "target": "suppressed_37063002026",
-      "value": 1392.2256225134474,
-      "type": "suppressed"
-    },
-    {
       "source": "potential_37063001808",
       "target": "actual_37063001808",
-      "value": 3.375515287483199,
+      "value": 3.9265662278938525,
       "type": "realized"
     },
     {
       "source": "potential_37063001808",
       "target": "suppressed_37063001808",
-      "value": 1346.830599705825,
+      "value": 1566.6999249296807,
       "type": "suppressed"
     },
     {
       "source": "potential_37063001801",
       "target": "actual_37063001801",
-      "value": 3.15455029609445,
+      "value": 3.319831281892985,
       "type": "realized"
     },
     {
       "source": "potential_37063001801",
       "target": "suppressed_37063001801",
-      "value": 1258.6655681417124,
+      "value": 1324.6126814753295,
       "type": "suppressed"
     },
     {
-      "source": "potential_37063002025",
-      "target": "actual_37063002025",
-      "value": 16.356636555212383,
+      "source": "potential_37063002026",
+      "target": "actual_37063002026",
+      "value": 10.549014612970185,
       "type": "realized"
     },
     {
-      "source": "potential_37063002025",
-      "target": "suppressed_37063002025",
-      "value": 1010.0747175041836,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001603",
-      "target": "actual_37063001603",
-      "value": 2.43914021130706,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001603",
-      "target": "suppressed_37063001603",
-      "value": 973.2169443115376,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001709",
-      "target": "actual_37063001709",
-      "value": 9.048277488326331,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001709",
-      "target": "suppressed_37063001709",
-      "value": 970.2170828594669,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001811",
-      "target": "actual_37063001811",
-      "value": 2.42491972831727,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001811",
-      "target": "suppressed_37063001811",
-      "value": 967.5429715986115,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001806",
-      "target": "actual_37063001806",
-      "value": 2.3614731903653294,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001806",
-      "target": "suppressed_37063001806",
-      "value": 942.2278029557866,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001002",
-      "target": "actual_37063001002",
-      "value": 10.883656704256204,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001002",
-      "target": "suppressed_37063001002",
-      "value": 933.8026217616573,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063002034",
-      "target": "actual_37063002034",
-      "value": 5.368805397718803,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063002034",
-      "target": "suppressed_37063002034",
-      "value": 929.5491419061295,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063002035",
-      "target": "actual_37063002035",
-      "value": 2.780149507381638,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063002035",
-      "target": "suppressed_37063002035",
-      "value": 915.6644257574108,
+      "source": "potential_37063002026",
+      "target": "suppressed_37063002026",
+      "value": 1247.3238724825765,
       "type": "suppressed"
     },
     {
       "source": "potential_37063002020",
       "target": "actual_37063002020",
-      "value": 2.256417047050716,
+      "value": 3.0045614591199166,
       "type": "realized"
     },
     {
       "source": "potential_37063002020",
       "target": "suppressed_37063002020",
-      "value": 900.310401773255,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063002038",
-      "target": "actual_37063002038",
-      "value": 7.32688240799512,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063002038",
-      "target": "suppressed_37063002038",
-      "value": 868.0562062230775,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001706",
-      "target": "actual_37063001706",
-      "value": 4.039084295086001,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001706",
-      "target": "suppressed_37063001706",
-      "value": 849.044307467296,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001809",
-      "target": "actual_37063001809",
-      "value": 2.3036401007570317,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001809",
-      "target": "suppressed_37063001809",
-      "value": 840.2225670577087,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001802",
-      "target": "actual_37063001802",
-      "value": 2.06525918228132,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001802",
-      "target": "suppressed_37063001802",
-      "value": 824.0384137302642,
-      "type": "suppressed"
-    },
-    {
-      "source": "potential_37063001708",
-      "target": "actual_37063001708",
-      "value": 2.561319890972467,
-      "type": "realized"
-    },
-    {
-      "source": "potential_37063001708",
-      "target": "suppressed_37063001708",
-      "value": 811.7527473556465,
+      "value": 1198.8200221888724,
       "type": "suppressed"
     },
     {
       "source": "potential_37063002037",
       "target": "actual_37063002037",
-      "value": 22.53765475656374,
+      "value": 32.65893422105785,
       "type": "realized"
     },
     {
       "source": "potential_37063002037",
       "target": "suppressed_37063002037",
-      "value": 806.7898646328691,
+      "value": 1169.105543760596,
       "type": "suppressed"
     },
     {
-      "source": "potential_37063001601",
-      "target": "actual_37063001601",
-      "value": 1.95489124330548,
+      "source": "potential_37063001709",
+      "target": "actual_37063001709",
+      "value": 10.616321734361012,
       "type": "realized"
     },
     {
-      "source": "potential_37063001601",
-      "target": "suppressed_37063001601",
-      "value": 780.0016060789031,
+      "source": "potential_37063001709",
+      "target": "suppressed_37063001709",
+      "value": 1138.3533183081595,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063002100",
+      "target": "actual_37063002100",
+      "value": 2.8225572538624153,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063002100",
+      "target": "suppressed_37063002100",
+      "value": 1126.2003442911277,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001604",
+      "target": "actual_37063001604",
+      "value": 2.6928899889790525,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001604",
+      "target": "suppressed_37063001604",
+      "value": 1074.4631056026649,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063002035",
+      "target": "actual_37063002035",
+      "value": 3.0750012437128107,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063002035",
+      "target": "suppressed_37063002035",
+      "value": 1011.9460849198151,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063002038",
+      "target": "actual_37063002038",
+      "value": 8.48555032187355,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063002038",
+      "target": "suppressed_37063002038",
+      "value": 1005.3299902947581,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001809",
+      "target": "actual_37063001809",
+      "value": 2.7369762447366055,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001809",
+      "target": "suppressed_37063001809",
+      "value": 998.2762522552161,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001802",
+      "target": "actual_37063001802",
+      "value": 2.354234372370921,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001802",
+      "target": "suppressed_37063001802",
+      "value": 939.3395145760177,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001603",
+      "target": "actual_37063001603",
+      "value": 2.2795288028113476,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001603",
+      "target": "suppressed_37063001603",
+      "value": 909.5319923217471,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001806",
+      "target": "actual_37063001806",
+      "value": 2.227845384982432,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001806",
+      "target": "suppressed_37063001806",
+      "value": 888.9103086080094,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001811",
+      "target": "actual_37063001811",
+      "value": 2.169529451765247,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001811",
+      "target": "suppressed_37063001811",
+      "value": 865.6422512543519,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063002034",
+      "target": "actual_37063002034",
+      "value": 4.6330996454002396,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063002034",
+      "target": "suppressed_37063002034",
+      "value": 802.1698461220616,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001711",
+      "target": "actual_37063001711",
+      "value": 4.046597829257304,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001711",
+      "target": "suppressed_37063001711",
+      "value": 798.0371946348964,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063002024",
+      "target": "actual_37063002024",
+      "value": 17.282943946990056,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063002024",
+      "target": "suppressed_37063002024",
+      "value": 776.5580600998168,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063001708",
+      "target": "actual_37063001708",
+      "value": 2.4287707017895173,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063001708",
+      "target": "suppressed_37063001708",
+      "value": 769.7442622545641,
+      "type": "suppressed"
+    },
+    {
+      "source": "potential_37063002025",
+      "target": "actual_37063002025",
+      "value": 12.31741826808076,
+      "type": "realized"
+    },
+    {
+      "source": "potential_37063002025",
+      "target": "suppressed_37063002025",
+      "value": 760.640045740198,
       "type": "suppressed"
     }
   ]

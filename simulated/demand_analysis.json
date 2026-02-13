@@ -14,58 +14,58 @@
     }
   },
   "summary": {
-    "total_potential_demand": 43591,
-    "total_actual_demand": 1239,
-    "total_suppressed_demand": 42351,
-    "suppression_rate": 97.15556806198016,
+    "total_potential_demand": 44314,
+    "total_actual_demand": 1291,
+    "total_suppressed_demand": 43022,
+    "suppression_rate": 97.08452546043141,
     "tracts_analyzed": 67,
     "high_suppression_tracts": 66,
-    "naive_ai_correlation": -0.3696114762134042,
-    "sophisticated_ai_correlation": 0.8941615811258656
+    "naive_ai_correlation": -0.31326481631386827,
+    "sophisticated_ai_correlation": 0.8924926730664117
   },
   "high_suppression_threshold": 70,
   "by_quintile": {
     "Q1 (Poorest)": {
-      "potential_demand": 541.8782897242687,
-      "actual_demand": 18.907974774539383,
-      "suppressed_demand": 522.9703149497293,
-      "suppression_pct": 95.53749918170709,
-      "infrastructure_score": 0.18962637038499916
+      "potential_demand": 508.4803101413645,
+      "actual_demand": 20.320554355059357,
+      "suppressed_demand": 488.1597557863051,
+      "suppression_pct": 95.43864797648817,
+      "infrastructure_score": 0.19309192316717
     },
     "Q2": {
-      "potential_demand": 646.2157088899689,
-      "actual_demand": 17.2753314731778,
-      "suppressed_demand": 628.9403774167912,
-      "suppression_pct": 96.28092160823402,
-      "infrastructure_score": 0.15989595613853924
+      "potential_demand": 684.1919055927922,
+      "actual_demand": 18.30335255484244,
+      "suppressed_demand": 665.8885530379498,
+      "suppression_pct": 95.77490936871385,
+      "infrastructure_score": 0.17718937125089373
     },
     "Q3": {
-      "potential_demand": 648.7323401421961,
-      "actual_demand": 17.477269062217967,
-      "suppressed_demand": 631.255071079978,
-      "suppression_pct": 95.38420095005773,
-      "infrastructure_score": 0.16914989854866774
+      "potential_demand": 701.4158491213869,
+      "actual_demand": 16.74894549014268,
+      "suppressed_demand": 684.6669036312443,
+      "suppression_pct": 96.00542278431635,
+      "infrastructure_score": 0.15042038306243743
     },
     "Q4": {
-      "potential_demand": 728.5853783104983,
-      "actual_demand": 18.220265617671252,
-      "suppressed_demand": 710.3651126928271,
-      "suppression_pct": 96.80722004612402,
-      "infrastructure_score": 0.14398349962527596
+      "potential_demand": 750.2569480959572,
+      "actual_demand": 15.252601011097353,
+      "suppressed_demand": 735.0043470848598,
+      "suppression_pct": 97.39388777423561,
+      "infrastructure_score": 0.130676769565727
     },
     "Q5 (Richest)": {
-      "potential_demand": 692.7926759041242,
-      "actual_demand": 20.46905365125777,
-      "suppressed_demand": 672.3236222528665,
-      "suppression_pct": 94.36557820548049,
-      "infrastructure_score": 0.15168688075452216
+      "potential_demand": 673.5568053961617,
+      "actual_demand": 25.252437025383347,
+      "suppressed_demand": 648.3043683707784,
+      "suppression_pct": 93.81277761013288,
+      "infrastructure_score": 0.16190847421194676
     }
   },
   "findings": [
-    "97.2% of potential active transportation demand is suppressed by poor infrastructure",
-    "Q1 (poorest) areas have 95.5% suppression vs 94.4% in Q5",
-    "Naive AI has only -0.37 correlation with potential demand (fails to detect suppressed demand)",
-    "Sophisticated AI achieves 0.89 correlation but still undercounts by 52.5% in Q1",
+    "97.1% of potential active transportation demand is suppressed by poor infrastructure",
+    "Q1 (poorest) areas have 95.4% suppression vs 93.8% in Q5",
+    "Naive AI has only -0.31 correlation with potential demand (fails to detect suppressed demand)",
+    "Sophisticated AI achieves 0.89 correlation but still undercounts by 54.2% in Q1",
     "Standard AI tools (Strava Metro) perpetuate inequity by measuring observed demand instead of potential need"
   ]
 }

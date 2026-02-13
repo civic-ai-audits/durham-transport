@@ -2,7 +2,7 @@
   "_provenance": {
     "data_type": "real",
     "real": [
-      "US Census ACS 2022 demographics",
+      "US Census ACS 2024 demographics",
       "NCDOT non-motorist crashes (ArcGIS Feature Service)"
     ],
     "simulated": [
@@ -10,56 +10,57 @@
     ]
   },
   "summary": {
-    "total_crashes_all_years": 714,
-    "crashes_2023_actual": 153,
-    "crashes_2023_predicted": 140,
-    "crashes_per_year": 142,
+    "total_crashes_all_years": 878,
+    "crashes_2023_actual": 164,
+    "crashes_2023_predicted": 142,
+    "crashes_per_year": 146,
     "years_analyzed": [
       2019,
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
     "tracts_analyzed": 67,
-    "data_source": "NCDOT non-motorist crash data, Durham County (2019-2023)"
+    "data_source": "NCDOT non-motorist crash data, Durham County (2019-2024)"
   },
   "error_by_quintile": {
     "Q1 (Poorest)": {
-      "actual_crashes": 2.4285714285714284,
-      "ai_predicted_crashes": 3.4703214160651683,
-      "mae": 1.821417095066619,
-      "error_pct": 70.34468659543639
+      "actual_crashes": 3.7857142857142856,
+      "ai_predicted_crashes": 2.8836046152683754,
+      "mae": 1.7924428923100169,
+      "error_pct": 44.43684093611181
     },
     "Q2": {
-      "actual_crashes": 2.1538461538461537,
-      "ai_predicted_crashes": 2.084076858387223,
-      "mae": 1.4145173946251905,
-      "error_pct": 57.243414101078706
+      "actual_crashes": 3.4615384615384617,
+      "ai_predicted_crashes": 2.6419171569000786,
+      "mae": 1.8694394847046096,
+      "error_pct": 63.746985134670226
     },
     "Q3": {
-      "actual_crashes": 2.4285714285714284,
-      "ai_predicted_crashes": 1.7564363273353685,
-      "mae": 1.1874216737350025,
-      "error_pct": 46.29919024291877
+      "actual_crashes": 1.8571428571428572,
+      "ai_predicted_crashes": 1.8061940330291255,
+      "mae": 0.9285265418739759,
+      "error_pct": 31.94158056602322
     },
     "Q4": {
-      "actual_crashes": 1.5384615384615385,
-      "ai_predicted_crashes": 1.600245285585871,
-      "mae": 0.7155148926180552,
-      "error_pct": 37.851616593196255
+      "actual_crashes": 2.0,
+      "ai_predicted_crashes": 1.711558069991106,
+      "mae": 1.5880939373746972,
+      "error_pct": 58.02678804092624
     },
     "Q5 (Richest)": {
-      "actual_crashes": 2.8461538461538463,
-      "ai_predicted_crashes": 1.475323363134021,
-      "mae": 1.720473119958706,
-      "error_pct": 46.17137371869956
+      "actual_crashes": 1.0769230769230769,
+      "ai_predicted_crashes": 1.5805877672499684,
+      "mae": 0.9953864027000243,
+      "error_pct": 47.196629202218
     }
   },
   "findings": [
-    "AI prediction error is 70% in Q1 vs 46% in Q5 \u2014 1.5x worse in the poorest areas",
-    "Ridge regression trained on real 2019-2022 non-motorist crash data with demographic features",
-    "Model shows systematic underperformance in poorest quintile when predicting 2023 crashes",
+    "AI prediction error is 44% in Q1 vs 47% in Q5 \u2014 0.9x worse in the poorest areas",
+    "Ridge regression trained on real 2019-2023 non-motorist crash data with demographic features",
+    "Model shows systematic underperformance in poorest quintile when predicting 2024-2024 crashes",
     "AI-guided safety investments systematically underallocate resources to underserved communities"
   ]
 }
